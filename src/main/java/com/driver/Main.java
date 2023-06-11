@@ -11,7 +11,7 @@ package com.driver;
     {
         public String meth()
         {
-            return "Method is overridden in class B";
+            return "Method is overridden in extended class B";
         }
     }
     public class Main {
